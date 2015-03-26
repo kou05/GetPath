@@ -1,0 +1,9 @@
+C:\Users\m\documents\visual studio 2013\Projects\GetPath\GetPath\bin\Release\GetPath.exe.config
+C:\Users\m\documents\visual studio 2013\Projects\GetPath\GetPath\bin\Release\GetPath.exe
+C:\Users\m\documents\visual studio 2013\Projects\GetPath\GetPath\bin\Release\GetPath.pdb
+C:\Users\m\documents\visual studio 2013\Projects\GetPath\GetPath\obj\Release\GetPath.csprojResolveAssemblyReference.cache
+C:\Users\m\documents\visual studio 2013\Projects\GetPath\GetPath\obj\Release\GetPath.GetPath.resources
+C:\Users\m\documents\visual studio 2013\Projects\GetPath\GetPath\obj\Release\GetPath.Properties.Resources.resources
+C:\Users\m\documents\visual studio 2013\Projects\GetPath\GetPath\obj\Release\GetPath.csproj.GenerateResource.Cache
+C:\Users\m\documents\visual studio 2013\Projects\GetPath\GetPath\obj\Release\GetPath.exe
+C:\Users\m\documents\visual studio 2013\Projects\GetPath\GetPath\obj\Release\GetPath.pdb
